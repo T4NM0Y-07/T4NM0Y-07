@@ -1,12 +1,33 @@
+<!--first line-->
 <h2 data-importer="text" align="center">Hi 👋! My name is Tanmoy...<br> From Coochbehar...</h2>
 
 ###
 
+<!--second line-->
 <h3 data-importer="text" align="left">I am currently studding B.Tech AIML at  the Siliguri institute of Technology.....</h3>
 
 ###
-
+<!--3rd line-->
 <h3 data-importer="text" align="right">I am also an AI Generalist, GEN AI and Ahentic Ai expert.<br>I work in some personal prjects....</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<!--Packman Annimation-->
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
 
@@ -59,10 +80,6 @@
 ###
 
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -129,18 +146,11 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
 
