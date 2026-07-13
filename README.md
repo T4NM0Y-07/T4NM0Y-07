@@ -158,8 +158,8 @@
 <br clear="both">
 
 <div data-importer="socials" align="center">
-  <a href="tanmoyhere07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://github.com/T4NM0Y-07/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23D6D6D6?style=for-the-badge&logo=GitHub&logoColor=black&logoSize=auto"/>
   </a>
   <a href="https://www.linkedin.com/in/tanmoy-saha-a2b7a3379?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
