@@ -14,17 +14,6 @@
 
 ###
 
-###
-
-<!--trophy and other -->
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=T4NM0Y-07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <!--skils-->
 
 <br clear="both">
@@ -69,6 +58,16 @@
 
 
 
+
+###
+
+<!--trophy and other -->
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=T4NM0Y-07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 ###
 
 <!--Packman Annimation-->
@@ -91,6 +90,11 @@
   <img src="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/T4NM0Y-07/T4NM0Y-07/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p data-importer="text" align="left">I love building intelligent software, AI-powered applications, full-stack web experiences, and automation tools that solve real-world problems.<br><br>💡 My interests include Artificial Intelligence, Machine Learning, Python, Full-Stack Development, Prompt Engineering, UI/UX Design, Cloud Technologies, and Automation. I'm always exploring new technologies and transforming innovative ideas into impactful digital products.<br><br>I enjoy learning continuously, contributing to meaningful projects, and creating technology that is smart, scalable, and user-focused.</p>
+
 
 ###
 
@@ -134,11 +138,6 @@
 
 ###
 
-<h4 data-importer="text" align="left">Me..</h4>
-
-###
-
-<p data-importer="text" align="left">I love building intelligent software, AI-powered applications, full-stack web experiences, and automation tools that solve real-world problems.<br><br>💡 My interests include Artificial Intelligence, Machine Learning, Python, Full-Stack Development, Prompt Engineering, UI/UX Design, Cloud Technologies, and Automation. I'm always exploring new technologies and transforming innovative ideas into impactful digital products.<br><br>I enjoy learning continuously, contributing to meaningful projects, and creating technology that is smart, scalable, and user-focused.</p>
 
 ###
 
