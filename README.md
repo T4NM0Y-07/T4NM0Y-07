@@ -93,6 +93,26 @@
 
 ###
 
+
+<br clear="both">
+
+<div data-importer="socials" align="center">
+  <a href="https://github.com/T4NM0Y-07/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23D6D6D6?style=for-the-badge&logo=GitHub&logoColor=black&logoSize=auto"/>
+  </a>
+  <a href="https://sahatanmoy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=Website&logoColor=white"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tanmoy-saha-a2b7a3379?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+
+
+
+###
+
 <p data-importer="text" align="left">I love building intelligent software, AI-powered applications, full-stack web experiences, and automation tools that solve real-world problems.<br><br>💡 My interests include Artificial Intelligence, Machine Learning, Python, Full-Stack Development, Prompt Engineering, UI/UX Design, Cloud Technologies, and Automation. I'm always exploring new technologies and transforming innovative ideas into impactful digital products.<br><br>I enjoy learning continuously, contributing to meaningful projects, and creating technology that is smart, scalable, and user-focused.</p>
 
 
@@ -154,18 +174,6 @@
 <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGs5NXkyc3poZ214cmQyZzZjdTg3enRocHAzbTN3eG1yZWdkdXp5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/amrNGnZUeWhZC/giphy.gif"  />
 
 ###
-
-<br clear="both">
-
-<div data-importer="socials" align="center">
-  <a href="https://github.com/T4NM0Y-07/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23D6D6D6?style=for-the-badge&logo=GitHub&logoColor=black&logoSize=auto"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tanmoy-saha-a2b7a3379?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
 
 ###
 
