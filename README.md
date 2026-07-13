@@ -10,7 +10,7 @@
 ###
 <!--3rd line-->
 
-<h3 data-importer="text" align="right">I am also an AI Generalist, GEN AI and Ahentic Ai expert.<br>I work in some personal prjects....</h3>
+<h3 data-importer="text" align="right">I am also an AI Generalist, GEN AI and Agentic Ai expert.<br>I work in some personal prjects....</h3>
 
 ###
 
